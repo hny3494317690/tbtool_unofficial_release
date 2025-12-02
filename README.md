@@ -8,10 +8,18 @@
 
 更新检查2025年12月02日 版本2025.07R2
 
-|        类型  |              点击下载                                                                                           |                        链接                                                                        |
-| -------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 官网下载 | [点击下载](https://www.tbtool.cn/download/index.html)                                                      | https://www.tbtool.cn/download/index.html                                                      |
-| EXE      | [点击下载](https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe) | https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe | 
-|RAR      | [点击下载](https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar) | https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar |
-|EXE(大陆加速)      | [点击下载](https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe) | https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe |
-|RAR(大陆加速)      | [点击下载](https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar) | https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar |
+| 类型          | 点击下载                   |                                                                        
+| ------------- | ------------------------------------------------------------------------------------------------- | 
+| 官网下载      | [点击下载](https://www.tbtool.cn/download/index.html)|                        
+| EXE           | [点击下载](https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe) | 
+| RAR           | [点击下载](https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar) | 
+| EXE（大陆加速） | [点击下载](https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe)| 
+| RAR（大陆加速） | [点击下载](https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar)| 
+ 
+> - 官网下载： ```https://www.tbtool.cn/download/index.html``` 
+> - EXE：```https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe```  
+> - RAR：```https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar``` 
+> - EXE（大陆加速）：```https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe```  
+> - RAR（大陆加速）```https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar```
+
+
