@@ -18,8 +18,8 @@
  
 > - 官网下载： ```https://www.tbtool.cn/download/index.html``` 
 > - EXE：```https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe```  
-> - RAR：```https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar``` 
+> - RAR：```https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.7z``` 
 > - EXE（大陆加速）：```https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.exe```  
-> - RAR（大陆加速）```https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.rar```
+> - RAR（大陆加速）```https://gh-proxy.org/https://github.com/hny3494317690/tbtool_unofficial_release/releases/latest/download/tbtool.7z```
 
 
